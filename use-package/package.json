@@ -1,12 +1,14 @@
 {
   "name": "use-package",
   "version": "1.0.0",
-  "description": "",
+  "description": "使用@jsnb2333/hello-github-package的测试项目",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "jsnb2333",
+  "license": "MIT",
+  "dependencies": {
+    "@jsnb2333/hello-github-package": "^1.0.0"
+  }
 }
