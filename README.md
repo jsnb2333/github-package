@@ -16,4 +16,6 @@ use-package 文件夹，是使用库。
 **npm start**，控制台打印“Hello GitHub Package”，表示使用成功。
 
 注意：要登录npm login --registry=https//npm.pkg.github.com,npm才能下载GitHub Package网上的仓库。
-登录方式与https://registry.npmjs.org是不同的。[详情](https://docs.github.com/zh/packages/working-with-a-github-packages-registry/working-with-the-npm-registry)
+登录方式与https://registry.npmjs.org是不同的。
+
+[GitHub Package 的登录详情](https://docs.github.com/zh/packages/working-with-a-github-packages-registry/working-with-the-npm-registry)
