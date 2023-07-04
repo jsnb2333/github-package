@@ -1,0 +1,19 @@
+{
+  "name": "@jsnb2333/hello-github-package",
+  "version": "0.0.1",
+  "description": "测试github-package的项目",
+  "author": "jsnb2333 <1357930097@qq.com>",
+  "homepage": "https://github.com/jsnb2333/github-package#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsnb2333/github-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsnb2333/github-package/issues"
+  }
+}
